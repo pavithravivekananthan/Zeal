@@ -1,0 +1,4 @@
+{
+ "mongoURI": "mongodb+srv://arya:t5FJacegcPZrFzTu@cluster0-ns6cm.mongodb.net/rest?retryWrites=true&w=majority",
+ "jwtSecret": "ZEAL"
+}
